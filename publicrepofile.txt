@@ -5,5 +5,3 @@ Adding an extra line to see how the study is going on.
 
 We will keeping adding more lines to make sure all the line are being added
 
-Extra change to the file
-
